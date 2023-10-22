@@ -1,7 +1,5 @@
 # Mono Repo Proposal
 
-Jake
-
 ### ci
 - https://account.ci.ip-dev.uk
 - https://manage.ci.ip-dev.uk
@@ -36,3 +34,11 @@ Jake
 - https://renew.ip-dev.uk
 - https://secure.ip-dev.uk
 - https://research.ip-dev.uk
+
+## TODO
+- Session data
+- Analytics
+- GDS
+- Shared services
+- Auth
+- Localisation
